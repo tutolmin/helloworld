@@ -1,0 +1,5 @@
+helloworld (1.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Andrei Tutolmin <tutolmin@gmail.com>  Thu, 06 Jun 2024 14:34:11 +0300

@@ -1,0 +1,15 @@
+Source: helloworld
+Section: unknown
+Priority: optional
+Maintainer: Andrei Tutolmin <tutolmin@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/helloworld.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/helloworld.git
+
+Package: helloworld
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, vim
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
